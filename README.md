@@ -1,1 +1,1 @@
-https://@romanavrotsky.github.io/rsschool-cv/cv
+https://romanavrotsky.github.io/rsschool-cv/cv
